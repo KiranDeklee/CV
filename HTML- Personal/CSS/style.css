@@ -1,0 +1,23 @@
+
+img:hover{
+  border-radius:50%;
+  background-color: red;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 30%;
+}
+body:hover{
+  background-color: #F9D5A7;
+  background-color: gold;
+}
+h3:hover{
+  color:#FEFBF3;
+
+}
+h1:hover{
+  color: #5C7AEA;
+  color: white;
+}
